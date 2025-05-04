@@ -16,7 +16,7 @@
 
 ---
 
-## 🛍Product Features
+## Product Features
 
 - [ ] Product list loads with correct data  
 - [ ] Filters (price, category, etc.) update results correctly  
