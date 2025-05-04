@@ -6,7 +6,7 @@
 
 ---
 
-## 🔐 Login & Authentication
+## Login & Authentication
 
 - [ ] Login with valid credentials  
 - [ ] Login with invalid credentials shows error  
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛍️ Product Features
+## 🛍Product Features
 
 - [ ] Product list loads with correct data  
 - [ ] Filters (price, category, etc.) update results correctly  
@@ -26,7 +26,7 @@
 
 ---
 
-## 💳 Checkout Process
+## Checkout Process
 
 - [ ] Cart persists across sessions  
 - [ ] Checkout form validation works  
@@ -36,7 +36,7 @@
 
 ---
 
-## 📱 Responsive Design
+## Responsive Design
 
 - [ ] Layout adjusts on mobile and tablet  
 - [ ] Navigation menu works on all screen sizes  
@@ -45,7 +45,7 @@
 
 ---
 
-## ⚙️ Functional & UI Checks
+## Functional & UI Checks
 
 - [ ] All buttons and links are clickable  
 - [ ] Page titles are correct  
@@ -55,7 +55,7 @@
 
 ---
 
-## 🧪 Other Areas
+## Other Areas
 
 - [ ] User can log out successfully  
 - [ ] Keyboard navigation is accessible  
